@@ -35,6 +35,25 @@ For me, it’s not just a hobby — it helps sharpen my security thinking when b
 
 ---
 
+## Career Snapshot
+
+- **Background:** Fullstack Developer + DevOps Engineer (production-oriented)
+- **Current Focus:** AI projects and practical automation workflows
+- **Security Angle:** Bug hunting journey restarted in **2026** to strengthen attacker-aware engineering
+
+---
+
+## Selected Outcomes
+
+I’m currently consolidating public case studies with measurable metrics.
+Until then, here are representative outcomes from my working areas:
+
+- Improved reliability and maintainability in ERP-related delivery workflows
+- Reduced manual operational work through automation and repeatable runbooks
+- Applied security-first review habits in design and implementation decisions
+
+---
+
 ## Background That Supports My AI Journey
 
 - **Fullstack Development**: product thinking, feature delivery, user-facing systems
@@ -77,6 +96,14 @@ For me, it’s not just a hobby — it helps sharpen my security thinking when b
 <div align="center">
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=0x4riff&theme=tokyonight&hide_border=true" />
 </div>
+
+---
+
+## Open To
+
+- AI Engineer / Applied AI opportunities
+- AI automation and workflow projects
+- Engineering roles where Fullstack + DevOps + security mindset is valued
 
 ---
 
