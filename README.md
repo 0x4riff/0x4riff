@@ -45,10 +45,17 @@ For me, it’s not just a hobby — it helps sharpen my security thinking when b
 
 ## Project Areas
 
-- **ERP Implementation**
-- **AAA Lexicon**
-- **Workload Automation**
-- **AI-focused experiments and practical tools**
+- **ERP Implementation**  
+  Implementing and customizing ERP workflows to match real business operations, with focus on stability and long-term maintainability.
+
+- **AAA Lexicon**  
+  Product and engineering work to improve structure, usability, and delivery quality in day-to-day development.
+
+- **Workload Automation**  
+  Automating repetitive operational tasks to reduce manual effort, improve consistency, and speed up execution.
+
+- **AI-focused Experiments & Practical Tools**  
+  Building practical AI prototypes and internal tools that solve clear problems, not just demo ideas.
 
 ---
 
