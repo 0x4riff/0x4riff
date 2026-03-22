@@ -99,6 +99,23 @@ Until then, here are representative outcomes from my working areas:
 
 ---
 
+## 🧭 Learning Journey
+
+I believe in learning in public — documenting what I study, what I build, and what I get wrong.  
+This is a live log. Updated as I go.
+
+| Period | Focus Area | What I'm Exploring |
+|--------|-----------|-------------------|
+| 2026 Q1 | AI Foundations | LLM internals, prompt engineering, RAG patterns |
+| 2026 Q1 | AI Workflows | AI-assisted automation, agent-based systems |
+| 2026 Q1 | Bug Hunting (restart) | Web recon methodology, OWASP Top 10 refresh |
+| 2026 Q2 | Applied AI | Building practical AI tools for real use cases |
+| 2026 Q2 | AI Security | Prompt injection, input validation, guardrails |
+
+> I'm not racing to a finish line. I'm building a foundation I can actually stand on.
+
+---
+
 ## Open To
 
 - AI Engineer / Applied AI opportunities
