@@ -9,35 +9,28 @@
   <a href="https://linkedin.com/in/arifwidiyanto"><img src="https://img.shields.io/badge/LinkedIn-arifwidiyanto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<sub>Building practical technical systems with clarity, delivery discipline, and long-term thinking.</sub>
+<sub>Building practical systems with delivery discipline, operational clarity, and modern engineering thinking.</sub>
 
 </div>
 
 ---
 
-## Profile
+## At a Glance
 
-I work at the intersection of **infrastructure**, **application delivery**, **automation**, and **AI-assisted engineering workflows**.
-
-My background in **Fullstack Development** and **DevOps** shaped the way I approach technical work: build with clarity, deliver with discipline, and keep systems practical under real operational conditions.
-
-Today, my focus is on applying that foundation to:
-- modern software delivery
-- AI-assisted workflows and automation
-- security-aware engineering and execution
-
-> A technical profile built on fundamentals, not noise.
+- **15+ years** across IT, operations, delivery, and implementation
+- **Primary focus:** DevOps, Fullstack systems, AI workflows, and practical automation
+- **Working style:** structured, analytical, calm under pressure, and execution-oriented
+- **Best fit:** roles and projects where reliability, ownership, and delivery quality matter
 
 ---
 
-## Executive Summary
+## Profile
 
-| Area | Positioning |
-|---|---|
-| **Experience** | 15+ years across IT, operations, delivery, and implementation |
-| **Primary Focus** | DevOps, Fullstack systems, AI workflows, and practical automation |
-| **Working Style** | Structured, analytical, calm under pressure, and execution-oriented |
-| **Professional Value** | Business-aware engineering with a strong delivery mindset |
+I work across **infrastructure**, **application delivery**, **automation**, and **AI-assisted engineering workflows**.
+
+My background in **Fullstack Development** and **DevOps** shaped the way I approach technical work: build with clarity, deliver with discipline, and keep systems practical under real operational conditions.
+
+What I bring is not only technical capability, but also a strong delivery mindset — the ability to move work forward in a structured, reliable, and business-aware way.
 
 ---
 
@@ -65,7 +58,7 @@ Root-cause thinking, troubleshooting, workflow improvement, and technical decisi
 
 ## Representative Outcomes
 
-I’m currently consolidating public case studies with measurable metrics. In the meantime, these outcomes reflect the kind of work I tend to contribute to:
+These outcomes reflect the kind of work I tend to contribute to:
 
 - improved reliability and maintainability in implementation-heavy delivery workflows
 - reduced repetitive operational work through automation and structured runbooks
@@ -96,7 +89,7 @@ My current learning and building focus includes:
 ## GitHub Snapshot
 
 <div align="center">
-  <sub>Consistent engineering work, visible through public activity.</sub>
+  <sub>Visible public activity and consistency over time.</sub>
 </div>
 
 <br />
@@ -109,7 +102,7 @@ My current learning and building focus includes:
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=0x4riff&bg_color=0d1117&color=7aa2f7&line=38bdae&point=c0caf5&area=true&hide_border=true" />
 </div>
 
-<sub>Public profile activity and repository language overview are best reviewed directly on my profile and pinned repositories.</sub>
+<sub>Repository language mix and deeper project details are best reviewed directly on my pinned repositories.</sub>
 
 ---
 
