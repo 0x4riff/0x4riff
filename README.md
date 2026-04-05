@@ -90,18 +90,14 @@ My current learning and building focus includes:
 ## GitHub Snapshot
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=0x4riff&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x4riff&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=0x4riff&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-profile-trophy.vercel.app/?username=0x4riff&theme=algolia&no-frame=true&no-bg=true&row=1&column=4" />
 </div>
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=0x4riff&bg_color=0d1117&color=7aa2f7&line=38bdae&point=c0caf5&area=true&hide_border=true" />
 </div>
+
+- Public profile activity and repository language overview are best reviewed directly on my GitHub profile and pinned repositories.
 
 ---
 
