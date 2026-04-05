@@ -9,6 +9,8 @@
   <a href="https://linkedin.com/in/arifwidiyanto"><img src="https://img.shields.io/badge/LinkedIn-arifwidiyanto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
+<sub>Building practical technical systems with clarity, delivery discipline, and long-term thinking.</sub>
+
 </div>
 
 ---
@@ -24,35 +26,39 @@ Today, my focus is on applying that foundation to:
 - AI-assisted workflows and automation
 - security-aware engineering and execution
 
+> A technical profile built on fundamentals, not noise.
+
 ---
 
 ## Executive Summary
 
-- **Experience:** 15+ years across IT, operations, delivery, and implementation
-- **Primary Focus:** DevOps, Fullstack systems, AI workflows, and practical automation
-- **Working Style:** structured, analytical, calm under pressure, and execution-oriented
-- **Professional Value:** business-aware engineering with a strong delivery mindset
+| Area | Positioning |
+|---|---|
+| **Experience** | 15+ years across IT, operations, delivery, and implementation |
+| **Primary Focus** | DevOps, Fullstack systems, AI workflows, and practical automation |
+| **Working Style** | Structured, analytical, calm under pressure, and execution-oriented |
+| **Professional Value** | Business-aware engineering with a strong delivery mindset |
 
 ---
 
 ## Where I Add Value
 
-### DevOps & Infrastructure Operations
+### ⚙️ DevOps & Infrastructure Operations
 Delivery workflows, systems reliability, automation, and maintainable infrastructure execution.
 
-### Fullstack Product Delivery
+### 🧩 Fullstack Product Delivery
 Web application development, backend systems, APIs, and product-oriented engineering.
 
-### AI-Assisted Engineering Workflow
+### 🤖 AI-Assisted Engineering Workflow
 Using AI to accelerate analysis, scripting, debugging, and technical execution in practical ways.
 
-### Security-Aware Operations
+### 🛡️ Security-Aware Operations
 Applying operational discipline, controlled processes, and a security-first mindset to implementation and delivery.
 
-### Project & Delivery Coordination
+### 📌 Project & Delivery Coordination
 Connecting technical detail with planning, communication, and measurable execution.
 
-### Analytical Problem Solving
+### 📈 Analytical Problem Solving
 Root-cause thinking, troubleshooting, workflow improvement, and technical decision-making under pressure.
 
 ---
@@ -90,6 +96,12 @@ My current learning and building focus includes:
 ## GitHub Snapshot
 
 <div align="center">
+  <sub>Consistent engineering work, visible through public activity.</sub>
+</div>
+
+<br />
+
+<div align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=0x4riff&theme=tokyonight&hide_border=true" />
 </div>
 
@@ -97,7 +109,7 @@ My current learning and building focus includes:
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=0x4riff&bg_color=0d1117&color=7aa2f7&line=38bdae&point=c0caf5&area=true&hide_border=true" />
 </div>
 
-- Public profile activity and repository language overview are best reviewed directly on my GitHub profile and pinned repositories.
+<sub>Public profile activity and repository language overview are best reviewed directly on my profile and pinned repositories.</sub>
 
 ---
 
