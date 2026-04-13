@@ -1,7 +1,7 @@
 <div align="center">
 
 # Arif Widiyanto
-### DevOps Engineer · Fullstack Developer · AI Systems Builder
+### DevOps Engineer | Fullstack Developer | AI Systems Builder
 
 <p>
   <a href="https://widiyanto.co/"><img src="https://img.shields.io/badge/Website-widiyanto.co-0f172a?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -9,72 +9,36 @@
   <a href="https://linkedin.com/in/arifwidiyanto"><img src="https://img.shields.io/badge/LinkedIn-arifwidiyanto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<sub>Building practical systems with delivery discipline, operational clarity, and modern engineering thinking.</sub>
+<sub>I build practical, production-aware systems with strong delivery discipline.</sub>
 
 </div>
 
 ---
 
-## At a Glance
+## Focus
 
-- **15+ years** across IT, operations, delivery, and implementation
-- **Primary focus:** DevOps, Fullstack systems, AI workflows, and practical automation
-- **Working style:** structured, analytical, calm under pressure, and execution-oriented
-- **Best fit:** roles and projects where reliability, ownership, and delivery quality matter
-
----
-
-## Profile
-
-I work across **infrastructure**, **application delivery**, **automation**, and **AI-assisted engineering workflows**.
-
-My background in **Fullstack Development** and **DevOps** shaped the way I approach technical work: build with clarity, deliver with discipline, and keep systems practical under real operational conditions.
-
-What I bring is not only technical capability, but also a strong delivery mindset — the ability to move work forward in a structured, reliable, and business-aware way.
+- DevOps and platform operations for reliability, automation, and maintainability
+- Fullstack product delivery across frontend, backend, API, and integration work
+- AI-assisted engineering workflows for faster debugging, scripting, and analysis
+- Structured execution: clear ownership, measurable delivery, calm incident handling
 
 ---
 
-## Where I Add Value
+## Featured Work
 
-### ⚙️ DevOps & Infrastructure Operations
-Delivery workflows, systems reliability, automation, and maintainable infrastructure execution.
+- [SagaraOps](https://github.com/0x4riff/SagaraOps) - Incident triage platform for Linux diagnostics and `sosreport` analysis
+- [kopilih-enhanced](https://github.com/0x4riff/kopilih-enhanced) - Next.js + TypeScript cafe discovery product with richer UX flow
+- [widiyanto.co](https://github.com/0x4riff/widiyanto.co) - Personal website and resume source
 
-### 🧩 Fullstack Product Delivery
-Web application development, backend systems, APIs, and product-oriented engineering.
-
-### 🤖 AI-Assisted Engineering Workflow
-Using AI to accelerate analysis, scripting, debugging, and technical execution in practical ways.
-
-### 🛡️ Security-Aware Operations
-Applying operational discipline, controlled processes, and a security-first mindset to implementation and delivery.
-
-### 📌 Project & Delivery Coordination
-Connecting technical detail with planning, communication, and measurable execution.
-
-### 📈 Analytical Problem Solving
-Root-cause thinking, troubleshooting, workflow improvement, and technical decision-making under pressure.
-
----
-
-## Representative Outcomes
-
-These outcomes reflect the kind of work I tend to contribute to:
-
-- improved reliability and maintainability in implementation-heavy delivery workflows
-- reduced repetitive operational work through automation and structured runbooks
-- strengthened delivery quality through clearer systems thinking and disciplined execution
-- applied security-aware review habits early in design and implementation
+For deeper technical details, see pinned repositories on my profile.
 
 ---
 
 ## Current Direction
 
-My current learning and building focus includes:
-
-- practical AI tools and workflow automation
-- production-aware engineering systems
-- security mindset development through bug hunting and attacker-aware thinking
-- long-term technical positioning built on fundamentals, not hype
+- Production-ready AI workflow automation
+- Linux-centric operations tooling and practical observability
+- Security-aware engineering habits and secure-by-default implementation
 
 ---
 
@@ -89,12 +53,6 @@ My current learning and building focus includes:
 ## GitHub Snapshot
 
 <div align="center">
-  <sub>Visible public activity and consistency over time.</sub>
-</div>
-
-<br />
-
-<div align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=0x4riff&theme=tokyonight&hide_border=true" />
 </div>
 
@@ -102,16 +60,14 @@ My current learning and building focus includes:
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=0x4riff&bg_color=0d1117&color=7aa2f7&line=38bdae&point=c0caf5&area=true&hide_border=true" />
 </div>
 
-<sub>Repository language mix and deeper project details are best reviewed directly on my pinned repositories.</sub>
-
 ---
 
 ## Open To
 
-- consulting and execution-focused technical collaboration
+- Consulting and execution-focused technical collaboration
 - DevOps / platform / systems-oriented roles
-- fullstack and product engineering work with strong operational ownership
-- AI workflow and automation projects grounded in practical use cases
+- Fullstack engineering with strong operational ownership
+- AI workflow and automation projects grounded in real use cases
 
 ---
 
