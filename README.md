@@ -26,9 +26,11 @@
 
 ## Featured Work
 
-- [SagaraOps](https://github.com/0x4riff/SagaraOps) - Incident triage platform for Linux diagnostics and `sosreport` analysis
-- [kopilih-enhanced](https://github.com/0x4riff/kopilih-enhanced) - Next.js + TypeScript cafe discovery product with richer UX flow
-- [widiyanto.co](https://github.com/0x4riff/widiyanto.co) - Personal website and resume source
+| Project | Why it matters | Stack |
+| --- | --- | --- |
+| [SagaraOps](https://github.com/0x4riff/SagaraOps) | Incident triage platform for Linux diagnostics and `sosreport` analysis | Python, AI workflow |
+| [kopilih-enhanced](https://github.com/0x4riff/kopilih-enhanced) | Product-oriented web app with richer UX and admin flow | Next.js, TypeScript |
+| [widiyanto.co](https://github.com/0x4riff/widiyanto.co) | Personal website and resume source | HTML, CSS |
 
 For deeper technical details, see pinned repositories on my profile.
 
@@ -68,6 +70,14 @@ For deeper technical details, see pinned repositories on my profile.
 - DevOps / platform / systems-oriented roles
 - Fullstack engineering with strong operational ownership
 - AI workflow and automation projects grounded in real use cases
+
+---
+
+## Collaboration
+
+- Location: Indonesia (UTC+7), remote-friendly
+- Best fit: teams that need hands-on implementation, not only strategy
+- Contact preference: LinkedIn for opportunities, website for portfolio details
 
 ---
 
